@@ -17,11 +17,11 @@ Dataset generated using Wokwi simulator and an Arduino Uno-based platform, follo
 
 Ensemble techniques implemented:
 
-Bagging
+* Bagging
 
-Boosting
+* Boosting
 
-Stacking
+* Stacking
 
 📈 Evaluation Metrics
 
