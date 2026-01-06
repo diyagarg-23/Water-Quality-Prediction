@@ -7,11 +7,11 @@ This project focuses on predicting the Water Quality Index (WQI) using ensemble 
 
 📊 Datasets Used
 
-Kaggle Dataset:
-Water quality data downloaded from Kaggle. WQI was calculated using standard physicochemical parameters.
+* Kaggle Dataset:
+  Water quality data downloaded from Kaggle. WQI was calculated using standard physicochemical parameters.
 
-Simulated IoT Dataset:
-Dataset generated using Wokwi simulator and an Arduino Uno-based platform, followed by custom WQI calculation.
+* Simulated IoT Dataset:
+  Dataset generated using Wokwi simulator and an Arduino Uno-based platform, followed by custom WQI calculation.
 
 🧠 Machine Learning Models
 
@@ -25,25 +25,25 @@ Ensemble techniques implemented:
 
 📈 Evaluation Metrics
 
-Accuracy
+* Accuracy
 
-Precision
+* Precision
 
-Recall
+* Recall
 
-F1 Score
+* F1 Score
 
 📁 Project Files (attached)
 
-README.md – Description
+* README.md – Description
 
-water_dataX.csv – Kaggle dataset
+* water_dataX.csv – Kaggle dataset
 
-iot_water_data.csv – Simulated IoT dataset
+* iot_water_data.csv – Simulated IoT dataset
 
-WQI using ensemble techniques.ipynb – WQI prediction on Kaggle dataset
+* WQI using ensemble techniques.ipynb – WQI prediction on Kaggle dataset
 
-WQI using ensemble methods on iot data.ipynb – WQI prediction on IoT dataset
+* WQI using ensemble methods on iot data.ipynb – WQI prediction on IoT dataset
 
 🛠️ Tools & Technologies
 
