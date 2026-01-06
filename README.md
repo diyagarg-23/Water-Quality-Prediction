@@ -32,3 +32,23 @@ Precision
 Recall
 
 F1 Score
+
+📁 Project Files (attached)
+
+README.md – Description
+
+water_dataX.csv – Kaggle dataset
+
+iot_water_data.csv – Simulated IoT dataset
+
+WQI using ensemble techniques.ipynb – WQI prediction on Kaggle dataset
+
+WQI using ensemble methods on iot data.ipynb – WQI prediction on IoT dataset
+
+🛠️ Tools & Technologies
+
+Python, Pandas, NumPy, Scikit-learn, Kaggle, Wokwi, Arduino Uno
+
+🔹 GitHub Repository Description
+
+Water Quality Index (WQI) prediction using ensemble machine learning on Kaggle-based and IoT-simulated datasets generated via Wokwi and Arduino Uno.
